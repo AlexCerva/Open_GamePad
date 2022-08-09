@@ -1,0 +1,16 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title "Open Gamepad, Modulo 2"
+Date "24-07-2021"
+Rev "1"
+Comp "Electrónica"
+Comment1 "Alejandro Cervantes García"
+Comment2 "Alejandro Cervantes García"
+Comment3 "E-08072021-001"
+Comment4 "Desarrollo"
+$EndDescr
+$EndSCHEMATC
